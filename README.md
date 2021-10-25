@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harsha1123
+- 👋 Hi, I’m Harsha Vardhan
 - 👀 I’m interested in Software Development, Machine Learning, Data Science.
 - 🌱 I’m currently pursuing my masters in Computer Science at University of Southern California
 - 💞️ I’m looking to collaborate on projects using technologies that involve python mostly. Also willing to collaborate in javascript and front end development projects
